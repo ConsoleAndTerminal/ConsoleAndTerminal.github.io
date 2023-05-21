@@ -1,3 +1,3 @@
 # Console & Terminal Official Website
 
-[Console and Terminal](ConsoleAndTerminal.github.io)
+[Console and Terminal](https://consoleandterminal.github.io)
